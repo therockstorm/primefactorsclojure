@@ -1,13 +1,13 @@
-# primefactors
+# Prime Factors Kata
 
-FIXME: write description
+http://sudoreadme.blogspot.com/2012/03/prime-numbers-kata-in-clojure.html
 
 ## Usage
 
-FIXME: write
+Execute 'lein midje' to run tests
 
 ## License
 
-Copyright (C) 2012 FIXME
+Copyright (C) 2012 Rocky Warren
 
 Distributed under the Eclipse Public License, the same as Clojure.
